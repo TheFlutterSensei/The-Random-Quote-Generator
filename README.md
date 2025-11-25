@@ -1,16 +1,40 @@
-# random_quote
+# **Random Quote Generator**
 
-A new Flutter project.
+A Flutter application that displays a new random quote each time the user interacts with the interface.
+This project introduces beginners to basic state updates, randomness, UI rebuilding, and clean stateless/stateful widget structure.
+It’s a simple, practical example for understanding how Flutter reacts to data changes.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## **How to Download and Use**
 
-A few resources to get you started if this is your first Flutter project:
+### **1. Clone this repository**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```bash
+git clone https://github.com/TheFlutterSensei/The-Random-Quote-Generator.git
+cd The-Random-Quote-Generator
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### **2. Install dependencies**
+
+```bash
+flutter pub get
+```
+
+### **3. Run the app**
+
+```bash
+flutter run
+```
+
+---
+
+## **Where to Learn?**
+
+### **Full Learning Path & Tutorials**
+
+[https://fluttersensei.com](https://fluttersensei.com)
+
+### **Complete Step-By-Step Class on Skillshare**
+
+[Coming Soon](https://fluttersensei.com)
